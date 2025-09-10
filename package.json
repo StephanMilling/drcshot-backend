@@ -1,0 +1,11 @@
+{
+  "name": "drcshot-backend-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mongodb": "^5.7.0",
+    "nodemailer": "^6.9.4"
+  }
+}
